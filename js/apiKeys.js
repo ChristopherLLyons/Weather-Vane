@@ -1,0 +1,1 @@
+const darkSkyKey = "e920b00f78237235f06f1992abe56799";
